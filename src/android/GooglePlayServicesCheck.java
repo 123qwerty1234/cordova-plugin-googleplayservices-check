@@ -5,7 +5,7 @@ import org.apache.cordova.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONException;
-
+import com.google.gms.google-services;
 import android.app.Dialog;
 import android.content.Context;
 import android.util.Log;
