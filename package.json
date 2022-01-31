@@ -23,7 +23,7 @@
     }
   ],
   "author": "JLM",
-  "license": "MT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/123qwerty1234/cordova-plugin-googleplayservices-check/issues"
   },
