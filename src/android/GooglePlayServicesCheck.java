@@ -9,7 +9,7 @@ import org.json.JSONException;
 import android.app.Dialog;
 import android.content.Context;
 import android.util.Log;
-
+import com.google.android.gms.common
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.common.ErrorDialogFragment;
 
