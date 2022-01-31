@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-googleplayservices-check",
-  "version": "1.0.1",
-  "description": "Simple cordova plugin for checking that the google play services are installed, updated and enabled.",
+  "version": "1.0.0",
+  "description": "pluggin check services google in devices of user",
   "cordova": {
     "id": "cordova-plugin-googleplayservices-check",
     "platforms": [
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rehmatt/cordova-plugin-googleplayservices-check.git"
+    "url": "git+https://github.com/123qwerty1234/cordova-plugin-googleplayservices-check.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -22,10 +22,10 @@
       "version": ">=3.4.0"
     }
   ],
-  "author": "rehmatt",
-  "license": "MIT",
+  "author": "JLM",
+  "license": "MT",
   "bugs": {
-    "url": "https://github.com/rehmatt/cordova-plugin-googleplayservices-check/issues"
+    "url": "https://github.com/123qwerty1234/cordova-plugin-googleplayservices-check/issues"
   },
-  "homepage": "https://github.com/rehmatt/cordova-plugin-googleplayservices-check#readme"
+  "homepage": "https://github.com/123qwerty1234/cordova-plugin-googleplayservices-check#readme"
 }
