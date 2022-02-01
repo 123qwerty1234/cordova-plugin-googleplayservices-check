@@ -1,7 +1,7 @@
 package cordova.plugin.googleplayservices.check;
 
 import org.apache.cordova.*;
-import com.google.android.gms:play-services:9.2.0;
+import com.google.android.gms;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONException;
