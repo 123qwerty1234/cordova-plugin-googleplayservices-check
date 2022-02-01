@@ -24,6 +24,7 @@
     </config-file>
 
     <source-file src="src/android/GooglePlayServicesCheck.java" target-dir="src/cordova/plugin/googleplayservices/check"/>
+     <framework src="build.gradle" custom="true" type="gradleReference" />
   </platform>
 
 </plugin>
