@@ -25,6 +25,11 @@
 
     <source-file src="src/android/GooglePlayServicesCheck.java" target-dir="src/cordova/plugin/googleplayservices/check"/>
      <framework src="build.gradle" custom="true" type="gradleReference" />
+          <framework src="com.google.android.gms:play-services-tagmanager:15.+" />
+<framework src="com.google.firebase:firebase-core:15.+" />
+<framework src="com.google.firebase:firebase-messaging:15.+" />
+<framework src="com.google.firebase:firebase-config:15.+" />
+<framework src="com.google.firebase:firebase-perf:15.+" />
   </platform>
 
 </plugin>
