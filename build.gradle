@@ -6,9 +6,6 @@ buildscript {
     }
 
     dependencies {
-        compile "com.google.android.gms:play-services:8.3.0"
-        classpath 'com.google.gms:google-services:4.3.+'
+        compile 'com.google.android.gms:play-services:11.2.0'
     }
 }
-
-apply plugin: 'com.google.gms.google-services'
