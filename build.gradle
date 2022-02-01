@@ -6,6 +6,7 @@ buildscript {
     }
 
     dependencies {
-        implementation 'com.google.android.gms:play-services:11.2.0'
+        classpath 'com.google.gms:google-services:3.1.0'
+        classpath 'com.android.tools.build:gradle:2.2.3'
     }
 }
